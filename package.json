@@ -1,5 +1,5 @@
 {
-  "name": "@pnp/office365-cli",
+  "name": "pnp/office365-cli",
   "version": "2.2.0",
   "description": "Manage Microsoft Office 365 and SharePoint Framework projects on any platform",
   "license": "MIT",
